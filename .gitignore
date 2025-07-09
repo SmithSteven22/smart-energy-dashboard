@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+
+# Jupyter / Colab
+# .ipynb_checkpoints
+
+# Data & models
+data/*.csv
+data/*.txt
+
+models/*.pkl
+
+# System
+.DS_Store
+.env
